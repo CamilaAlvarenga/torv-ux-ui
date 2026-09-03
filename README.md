@@ -1,28 +1,62 @@
-# 📱 TORV - Mobile App
+# 🏋️ Torv
 
-Este repositório documenta a interface, a arquitetura de informação e a pesquisa estratégica de produto do aplicativo **TORV**, uma plataforma integrada focada em gerenciamento de treinos, dietas e gamificação em comunidade.
+> **Uma experiência digital pensada para tornar a rotina de treinos mais simples, organizada e intuitiva.**
+
+## ✨ Sobre o Torv
+
+O **Torv** é um aplicativo voltado para **treinos e acompanhamento de exercícios**, desenvolvido com o objetivo de facilitar a organização da rotina fitness e proporcionar uma experiência mais prática e intuitiva para o usuário.
+
+A proposta do aplicativo é centralizar informações relacionadas aos treinos em uma experiência simples de navegar, ajudando o usuário a acompanhar sua rotina de forma mais organizada.
+
+## 🎨 Sobre este repositório
+
+Este repositório é dedicado exclusivamente ao **design e à experiência do Torv**, reunindo o processo de criação das interfaces, protótipos e decisões de UX/UI do aplicativo.
+
+O projeto está sendo desenvolvido de forma gradual, desde a definição da estrutura e dos fluxos até a criação das interfaces finais.
+
+A **implementação do aplicativo em React Native + TypeScript** está sendo desenvolvida em um repositório separado.
+
+## 🧠 UX/UI Design
+
+O desenvolvimento do Torv parte da preocupação em criar uma experiência que seja:
+
+* 🎯 **Intuitiva** — navegação simples e fácil de compreender
+* 🧩 **Organizada** — informações apresentadas de forma clara
+* 📱 **Funcional** — interfaces pensadas para o uso no dia a dia
+* ✨ **Consistente** — identidade visual e componentes padronizados
+
+Durante o processo, são trabalhados aspectos como **arquitetura da informação, fluxos de navegação, wireframes, prototipação e design de interfaces**.
+
+## 🖼️ Protótipo
+
+O projeto está sendo desenvolvido no **Figma**, onde são criados os wireframes, componentes, interfaces e protótipos interativos.
+
+> 🚧 **O projeto ainda está em desenvolvimento.**
+> As interfaces e funcionalidades apresentadas neste repositório podem sofrer alterações conforme o projeto evolui.
+
+## 🛠️ Ferramentas
+
+* **Figma** — Design de interfaces e prototipação
+* **React Native** — Implementação do aplicativo
+* **TypeScript** — Linguagem utilizada na implementação
+* **Expo** — Ambiente de desenvolvimento
+
+## 📂 Estrutura do projeto
+
+Este repositório concentra os materiais relacionados ao **UX/UI Design do Torv**.
+
+A implementação do aplicativo é mantida separadamente para permitir que o processo de design e o desenvolvimento sejam organizados de forma independente.
+
+## 🚧 Status
+
+**Em desenvolvimento**
+
+O Torv está em uma fase inicial de desenvolvimento. Novas telas, fluxos, componentes e funcionalidades serão adicionados conforme o projeto avança.
 
 ---
 
-### 🎨 Processo de Design & UX Research
+### 💡 Torv
 
-O projeto foi construído do zero utilizando metodologias de Design Thinking. O objetivo foi mapear profundamente as dores do usuário de saúde/fitness antes de desenhar a interface final de alta fidelidade (UI). 
+Um projeto em construção, desenvolvido para transformar uma rotina de treinos em uma experiência mais simples e organizada.
 
-Você pode conferir todas as etapas navegando pelas páginas organizadas diretamente no arquivo do Figma:
-
-* 🚀 **[Acesse aqui o Protótipo Interativo](COLE_AQUI_O_LINK_DO_SEU_FIGMA_PROTOTYPE)** — *Navegue pelas 28 telas integradas e pelo Style Guide na página principal.*
-* 🧠 **[Acesse aqui a página UX Research](COLE_AQUI_O_LINK_DO_SEU_FIGMA_UX_RESEARCH)** — *Confira os entregáveis de fundação do projeto, contendo:*
-  * **Personas, Arquétipos e Mapa de Empatia** (Entendimento comportamental do público-alvo)
-  * **Benchmark Competitivo** (Análise manual de concorrentes e oportunidades de mercado)
-  * **Mapa de Jornada do Usuário** (Mapeamento dos pontos de contato e fricção do usuário)
-  * **Fluxo de Navegação** (Arquitetura de informação do aplicativo)
-  * **Wireframes de Baixa Resolução** (Estruturação esqueleto inicial das telas)
-
----
-
-### 💻 Diferenciais Técnicos (Pronto para Desenvolvimento)
-O layout e os fluxos foram planejados estrategicamente para facilitar o handoff e a codificação do time de desenvolvimento Front-End/Mobile:
-* **Design System**: Tokens de cores com códigos HEX mapeados e tipografia padronizada.
-* **Componentização Avançada**: Uso de variantes do Figma para botões, inputs e estados de clique (Active, Selected e Default).
-* **Organização Sequencial**: Telas nomeadas e numeradas de 01 a 28 para guiar a lógica do desenvolvedor.
 
