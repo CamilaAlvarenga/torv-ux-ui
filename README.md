@@ -1,62 +1,20 @@
 # 🏋️ Torv
 
-> **Uma experiência digital pensada para tornar a rotina de treinos mais simples, organizada e intuitiva.**
+> Aplicativo fitness desenvolvido para tornar o acompanhamento de hábitos saudáveis mais simples, organizado e conectado.
 
-## ✨ Sobre o Torv
+O **Torv** reúne acompanhamento de **treinos e alimentação**, além de recursos de **interação social** e **localização de academias e espaços para atividades físicas**.
 
-O **Torv** é um aplicativo voltado para **treinos e acompanhamento de exercícios**, desenvolvido com o objetivo de facilitar a organização da rotina fitness e proporcionar uma experiência mais prática e intuitiva para o usuário.
+## 🎨 UX/UI Design
 
-A proposta do aplicativo é centralizar informações relacionadas aos treinos em uma experiência simples de navegar, ajudando o usuário a acompanhar sua rotina de forma mais organizada.
+Este repositório apresenta o processo de UX/UI Design do Torv, desde a pesquisa e estruturação da experiência até os wireframes e protótipos.
 
-## 🎨 Sobre este repositório
+### 🔗 Figma
 
-Este repositório é dedicado exclusivamente ao **design e à experiência do Torv**, reunindo o processo de criação das interfaces, protótipos e decisões de UX/UI do aplicativo.
+* **🎨 UX/UI Design** — [Visualizar processo no Figma](https://www.figma.com/design/z6CXqHyurfuF7EPLbztLWl/TORV?node-id=0-1&t=u0UgHqFZ30McYDyP-1)
+* **▶️ Protótipo Funcional** — [Testar protótipo interativo](https://www.figma.com/proto/z6CXqHyurfuF7EPLbztLWl/TORV?node-id=178-58&t=wSSiV0k9DV3DasjV-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=178%3A31)
 
-O projeto está sendo desenvolvido de forma gradual, desde a definição da estrutura e dos fluxos até a criação das interfaces finais.
+## 💻 Implementação
 
-A **implementação do aplicativo em React Native + TypeScript** está sendo desenvolvida em um repositório separado.
+A implementação do aplicativo em **React Native + TypeScript** está sendo desenvolvida em um repositório separado e encontra-se em **estágio inicial**.
 
-## 🧠 UX/UI Design
-
-O desenvolvimento do Torv parte da preocupação em criar uma experiência que seja:
-
-* 🎯 **Intuitiva** — navegação simples e fácil de compreender
-* 🧩 **Organizada** — informações apresentadas de forma clara
-* 📱 **Funcional** — interfaces pensadas para o uso no dia a dia
-* ✨ **Consistente** — identidade visual e componentes padronizados
-
-Durante o processo, são trabalhados aspectos como **arquitetura da informação, fluxos de navegação, wireframes, prototipação e design de interfaces**.
-
-## 🖼️ Protótipo
-
-O projeto está sendo desenvolvido no **Figma**, onde são criados os wireframes, componentes, interfaces e protótipos interativos.
-
-> 🚧 **O projeto ainda está em desenvolvimento.**
-> As interfaces e funcionalidades apresentadas neste repositório podem sofrer alterações conforme o projeto evolui.
-
-## 🛠️ Ferramentas
-
-* **Figma** — Design de interfaces e prototipação
-* **React Native** — Implementação do aplicativo
-* **TypeScript** — Linguagem utilizada na implementação
-* **Expo** — Ambiente de desenvolvimento
-
-## 📂 Estrutura do projeto
-
-Este repositório concentra os materiais relacionados ao **UX/UI Design do Torv**.
-
-A implementação do aplicativo é mantida separadamente para permitir que o processo de design e o desenvolvimento sejam organizados de forma independente.
-
-## 🚧 Status
-
-**Em desenvolvimento**
-
-O Torv está em uma fase inicial de desenvolvimento. Novas telas, fluxos, componentes e funcionalidades serão adicionados conforme o projeto avança.
-
----
-
-### 💡 Torv
-
-Um projeto em construção, desenvolvido para transformar uma rotina de treinos em uma experiência mais simples e organizada.
-
-
+**→ [Acessar repositório da implementação](https://github.com/Leozin2412/torv)**
