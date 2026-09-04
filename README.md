@@ -18,26 +18,8 @@ Este repositório apresenta o processo de UX/UI Design do Torv, desde a pesquisa
 
 ### 🔗 Figma
 
-* 🎨 **[UX/UI Design]([LINK_DO_FIGMA_UX](https://www.figma.com/design/z6CXqHyurfuF7EPLbztLWl/TORV?node-id=0-1&t=u0UgHqFZ30McYDyP-1))** — processo de pesquisa, estruturação e desenvolvimento das interfaces
-* ▶️ **[Protótipo Funcional]([LINK_DO_PROTOTIPO](https://www.figma.com/proto/z6CXqHyurfuF7EPLbztLWl/TORV?node-id=178-58&t=wSSiV0k9DV3DasjV-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=178%3A31))** — experimente a navegação e interação do aplicativo
-
-## 💻 Implementação
-
-A implementação do aplicativo em **React Native + TypeScript** está sendo desenvolvida em um repositório separado e encontra-se em **estágio inicial**.
-
-**→ [Acessar repositório da implementação]([LINK_DO_REPOSITORIO](https://github.com/Leozin2412/torv))**
-
-
-
-
-
-
-### 🔗 Figma
-
 * **🎨 UX/UI Design** — [Visualizar processo no Figma](https://www.figma.com/design/z6CXqHyurfuF7EPLbztLWl/TORV?node-id=0-1&t=u0UgHqFZ30McYDyP-1)
 * **▶️ Protótipo Funcional** — [Testar protótipo interativo](https://www.figma.com/proto/z6CXqHyurfuF7EPLbztLWl/TORV?node-id=178-58&t=wSSiV0k9DV3DasjV-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=178%3A31)
-
-
 
 ## 💻 Implementação
 
