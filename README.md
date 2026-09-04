@@ -22,7 +22,7 @@ Este repositório apresenta o processo de UX/UI Design do Torv, desde a pesquisa
 
   Explore as **UI Components, paleta de cores e telas do aplicativo**. O arquivo também conta com uma segunda página dedicada ao processo de **UX Research**, com benchmark, mapa de empatia, personas, arquétipos, jornada do usuário, fluxo de navegação e wireframes.
 
-* ▶️ **[Protótipo Funcional](https://www.figma.com/proto/UUUfyqCQywK6NpWmpj01Yh/TORV-UX-UI?node-id=178-58&t=irmHIGorNfOJajNg-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=178%3A31)**
+* ▶️ **[Protótipo Funcional](https://www.figma.com/proto/UUUfyqCQywK6NpWmpj01Yh/TORV-UX-UI?node-id=178-58&p=f&t=T1fuMuhSI6vgqKhL-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=178%3A31)**
 
   Navegue pelo protótipo e experimente a experiência do aplicativo na prática.
 
